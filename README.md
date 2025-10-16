@@ -39,3 +39,4 @@ OpenArm features **human-scale** proportions, safety and compliance, and practic
 ## 📄 Code of Conduct
 
 All participation in the OpenArm project is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
+sir tapos na po
