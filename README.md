@@ -1,4 +1,4 @@
-# OpenArm
+# OpenArmsss
 
 **OpenArm** is an open-source 7DOF humanoid arm designed for physical AI research and deployment in contact-rich environments. With high backdrivability and compliance, it excels at safe human-robot interaction while delivering practical payload capabilities for real-world applications.
 
